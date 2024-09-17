@@ -142,7 +142,7 @@ Haz un `JOIN` que saque usuarios.id_usuario, usuarios.nombre, usuarios.apellido,
 - id_categoría: tipo número.
 
 Añadiremos dentro de la creación de la tabla intermedia dos claves foráneas.
-- Una que haga referencia el `id_usaurio` de la tabla intermedia con el `id_usuario` de `usuarios`
+- Una que haga referencia el `id_usuario` de la tabla intermedia con el `id_usuario` de `usuarios`
 - Una que haga referencia el `id_categoría` de la tabla intermedia con el `id_categoria` de `categorías`
 
 Podría ser algo como esto:
