@@ -69,4 +69,16 @@
 
 -- PASO 3
 -- SELECT 
+    --usuarios.id_usuario, 
+    --usuarios.nombre, 
+    --usuarios.apellido, 
+    --usuarios.email, 
+    --usuarios.edad, 
+    --roles.nombre_rol, 
+    --categorias.nombre_categoria
+--FROM usuarios
+--JOIN roles ON usuarios.id_rol = roles.id_rol
+--JOIN usuarios_categorias ON usuarios.id_usuario = usuarios_categorias.id_usuario
+--JOIN categorias ON usuarios_categorias.id_categoria = categorias.id_categoria;
+
  
